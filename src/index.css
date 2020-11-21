@@ -1,0 +1,9 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.map {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
